@@ -9,6 +9,6 @@
     ║                                ║
     ║         [ CTF WRITEUPS ]       ║
     ║         [ PENTESTING ]         ║
-    ║         [ RED TEAMING ]        ║
+    ║         [ TECH        ]        ║
     ║                                ║
     ╚════════════════════════════════╝
