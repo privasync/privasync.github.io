@@ -16,7 +16,7 @@ timezone:
 
 title: privasync # the main title
 
-tagline: Brian R.: Cybersecurity Engineer & Professional Googler | Red Team Enthusiast  # it will display as the subtitle
+tagline: Brian R. - Cybersecurity Engineer & Professional Googler | Red Team Enthusiast  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Technical writing of HTB, OffSec Proving Grounds, HackSmarter, THM.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://privasync.github.io"
 
 github:
-  username: privasync # change to your GitHub username
+  username: Privasync # change to your GitHub username
 
 ## twitter:
 ##   username: twitter_username # change to your Twitter username
