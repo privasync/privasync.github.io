@@ -215,6 +215,7 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
+  - "_tabs/about.md"   # <-- add this line to exclude the about page from the tabs collection
 
 jekyll-archives:
   enabled: [categories, tags]
